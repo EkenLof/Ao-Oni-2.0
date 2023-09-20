@@ -49,3 +49,6 @@ Session.vim
 
 # Visual Studio
 .vs
+*.bin
+*.log
+Ao_Oni_2_0/Saved/AutoScreenshot.png
